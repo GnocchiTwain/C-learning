@@ -40,7 +40,7 @@ void sort(int arr[], int low, int high){
 
 int main() {
     int arr[5] = {9,3,4,5,6};
-    sort(arr,0,5);
+    sort(arr,0,4);
     for(int i; i < 5; i++){
         cout << arr[i] << " ";
     }
